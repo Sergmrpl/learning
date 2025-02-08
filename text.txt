@@ -4,3 +4,14 @@ string
 test branch
 
 main branch
+
+git init - создание репозитория
+git add - добавление файлов в репо
+git log - просмотреть логи коммитов
+git status - просмотреть состояние/изменения
+git commit - сохранить изменения
+git diff branch1..branch2 - сравнение ветки 1 с веткой 2
+git merge branch2 - слияние ветки 2 в текущую
+git checkout - переключение между ветками
+git checkout -b branch2 - создание и переключение на ветку 2
+git push - отправить коммиты на удалённый репо
